@@ -1,6 +1,7 @@
 # 🔬 SPARC Nanofabrication Program
 
-**Cleanroom Micro/Nanofabrication • 2D Materials • Gas Sensors • Semiconductor Devices • MEMS**
+**Indo-Taiwan/US Collaborative Program | IIT Hyderabad & NTHU Taiwan
+Cleanroom Micro/Nanofabrication • 2D Materials • Gas Sensors • Semiconductor Devices • MEMS**
 
 [![Program](https://img.shields.io/badge/Program-SPARC-blue)](#)
 [![Phase 2](https://img.shields.io/badge/Phase%202-IIT%20Hyderabad-orange)](#)
